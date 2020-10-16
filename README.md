@@ -1,6 +1,6 @@
 ### Hello World
 I'm Charlie. 
-Most of the time, I'm focused on building upon open source web technology but also love: automation, writing documentation, how-to guides, presenting and mentoring.
+Most of the time, I'm focused on building upon open source web technology but also love: automation, writing, presenting and mentoring.
 
 ![NodeJS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
